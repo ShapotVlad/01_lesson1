@@ -17,3 +17,6 @@ Console.WriteLine(sum3);
 Console.WriteLine(prod1);
 Console.WriteLine(prod2);
 Console.WriteLine(prod3);
+
+double quot1 = d1/i2;
+Console.WriteLine(quot1);
