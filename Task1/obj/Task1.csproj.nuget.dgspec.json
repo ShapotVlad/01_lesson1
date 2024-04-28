@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\user\\Desktop\\01_lession1\\Task1\\Task1.csproj": {}
+    "D:\\Users\\user\\Desktop\\C#\\01_lession1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "D:\\Users\\user\\Desktop\\01_lession1\\Task1\\Task1.csproj": {
+    "D:\\Users\\user\\Desktop\\C#\\01_lession1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\user\\Desktop\\01_lession1\\Task1\\Task1.csproj",
+        "projectUniqueName": "D:\\Users\\user\\Desktop\\C#\\01_lession1\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "D:\\Users\\user\\Desktop\\01_lession1\\Task1\\Task1.csproj",
+        "projectPath": "D:\\Users\\user\\Desktop\\C#\\01_lession1\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\user\\Desktop\\01_lession1\\Task1\\obj\\",
+        "outputPath": "D:\\Users\\user\\Desktop\\C#\\01_lession1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
