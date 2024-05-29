@@ -1,10 +1,13 @@
-﻿int n = 94;
-int i = 1;
+﻿//выводим ряд чисел от 1 до n оператором while (цикл)
+
+
+int n = 94; // задаем число до которого выводим
+int i = 1; // задаем  число от которого выводим
 
 while (i <= n)
 {
     //Console.WriteLine(i);
-    Console.Write(i);
-    Console.Write(" ");
-    i = i + 1;
+    Console.Write(i); //вывод числа
+    Console.Write(" ");// вывод пробела
+    i = i + 1; //цикл
 }
