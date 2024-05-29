@@ -13,3 +13,18 @@ D:\Users\user\Desktop\01_lession1\Task3\obj\Debug\net7.0\refint\Task3.dll
 D:\Users\user\Desktop\01_lession1\Task3\obj\Debug\net7.0\Task3.pdb
 D:\Users\user\Desktop\01_lession1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
 D:\Users\user\Desktop\01_lession1\Task3\obj\Debug\net7.0\ref\Task3.dll
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\bin\Debug\net7.0\Task3.exe
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\bin\Debug\net7.0\Task3.deps.json
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\bin\Debug\net7.0\Task3.dll
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\bin\Debug\net7.0\Task3.pdb
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.dll
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\refint\Task3.dll
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.pdb
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+D:\Users\user\Desktop\курсы IT\C#\01_lession1\Task3\obj\Debug\net7.0\ref\Task3.dll
